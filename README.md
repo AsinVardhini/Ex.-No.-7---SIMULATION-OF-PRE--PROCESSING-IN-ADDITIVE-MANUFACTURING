@@ -38,15 +38,29 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
-
 ## Output:
 
-### Name:
-### Register Number:
+### Name: ASIN VARDHINI R
+
+### Register Number: 212222100007
+
+### 1. CAD File
+![ex7 1](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/1a0df2e7-4041-406a-a214-e8475960acce)
+
+### 2. Conversion to STL
+![ex7 2](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/c7a23a8f-d6d4-4000-9bcc-5f03e00549d1)
+
+### a. Orientation:
+![ex7 3](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/562a61cf-040e-42e6-8358-d4ddceaf6596)
+
+### b. Support Structure:
+![ex7 4](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/1e4d77ff-a0da-44d4-8fed-85d348950df2)
+
+### c. Slicing:
+![ex7 5](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/909753df-58ce-4931-afb6-c4ef7a25b58c)
+
+### d. Path Planning:
+![ex7 6](https://github.com/AsinVardhini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119417735/1ad7d639-b9fb-4330-a5c7-7094a79f7039)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
